@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\bin\Debug\net8.0\Cronometro_Allan.exe
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\bin\Debug\net8.0\Cronometro_Allan.deps.json
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\bin\Debug\net8.0\Cronometro_Allan.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\bin\Debug\net8.0\Cronometro_Allan.dll
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\bin\Debug\net8.0\Cronometro_Allan.pdb
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\obj\Debug\net8.0\Cronometro_Allan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\obj\Debug\net8.0\Cronometro_Allan.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\obj\Debug\net8.0\Cronometro_Allan.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\obj\Debug\net8.0\Cronometro_Allan.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\obj\Debug\net8.0\Cronometro_Allan.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\obj\Debug\net8.0\Cronometro_Allan.dll
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\obj\Debug\net8.0\refint\Cronometro_Allan.dll
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\obj\Debug\net8.0\Cronometro_Allan.pdb
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\obj\Debug\net8.0\Cronometro_Allan.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ProjetoEmEquipe\Cronometro_Allan\obj\Debug\net8.0\ref\Cronometro_Allan.dll

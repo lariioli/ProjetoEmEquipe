@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\cronometro\\cronometro.csproj",
-      "projectName": "cronometro",
-      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\cronometro\\cronometro.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\CalculadoraSimples\\CalculadoraSimples.csproj",
+      "projectName": "CalculadoraSimples",
+      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\CalculadoraSimples\\CalculadoraSimples.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\cronometro\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\CalculadoraSimples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
