@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\cronometro\\cronometro.csproj",
-      "projectName": "cronometro",
-      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\cronometro\\cronometro.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\Cronometro_Allan\\Cronometro_Allan.csproj",
+      "projectName": "Cronometro_Allan",
+      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\Cronometro_Allan\\Cronometro_Allan.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\cronometro\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\AllanGabriel\\ProjetoEmEquipe\\Cronometro_Allan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
