@@ -1,5 +1,10 @@
-# ProjetoEmEquipe
-string[] opcoes = { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" };
+﻿using System;
+
+internal class Program
+{
+    private static int Main(string[] args)
+    {
+        string[] opcoes = { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" };
         Random random = new Random();
 
         Console.WriteLine("Qual o tamanho da senha?");
@@ -14,13 +19,17 @@ string[] opcoes = { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", 
         {
             Console.WriteLine("Por favor, insira um número válido maior que zero.");
         }
-    
+
+        return 0; 
+    }
 
     private static string GerarSenha(string[] opcoes, Random random, int tamanho)
-    
+    {
         char[] senha = new char[tamanho];
         for (int i = 0; i < tamanho; i++)
         {
-            senha[i] = opcoes[random.Next(opcoes.Length)][0]; 
+            senha[i] = opcoes[random.Next(opcoes.Length)][0];
         }
         return new string(senha);
+    }
+}
