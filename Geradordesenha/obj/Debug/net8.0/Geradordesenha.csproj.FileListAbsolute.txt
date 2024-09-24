@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\obj\Debug\net8.0\Geradordesenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\obj\Debug\net8.0\Geradordesenha.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\obj\Debug\net8.0\Geradordesenha.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\obj\Debug\net8.0\Geradordesenha.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\obj\Debug\net8.0\Geradordesenha.sourcelink.json
+c:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\bin\Debug\net8.0\Geradordesenha.exe
+c:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\bin\Debug\net8.0\Geradordesenha.deps.json
+c:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\bin\Debug\net8.0\Geradordesenha.runtimeconfig.json
+c:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\bin\Debug\net8.0\Geradordesenha.dll
+c:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\bin\Debug\net8.0\Geradordesenha.pdb
+c:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\obj\Debug\net8.0\Geradordesenha.dll
+c:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\obj\Debug\net8.0\refint\Geradordesenha.dll
+c:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\obj\Debug\net8.0\Geradordesenha.pdb
+c:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\obj\Debug\net8.0\Geradordesenha.genruntimeconfig.cache
+c:\Users\Alunos\Documents\Pietro Sollano\ProjetoEmEquipe\Geradordesenha\obj\Debug\net8.0\ref\Geradordesenha.dll
