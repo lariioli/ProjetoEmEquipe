@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\bin\Debug\net8.0\Adivinhadordenumro.exe
+C:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\bin\Debug\net8.0\Adivinhadordenumro.deps.json
+C:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\bin\Debug\net8.0\Adivinhadordenumro.runtimeconfig.json
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\bin\Debug\net8.0\Adivinhadordenumro.dll
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\bin\Debug\net8.0\Adivinhadordenumro.pdb
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\obj\Debug\net8.0\Adivinhadordenumro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\obj\Debug\net8.0\Adivinhadordenumro.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\obj\Debug\net8.0\Adivinhadordenumro.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\obj\Debug\net8.0\Adivinhadordenumro.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\obj\Debug\net8.0\Adivinhadordenumro.sourcelink.json
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\obj\Debug\net8.0\Adivinhadordenumro.dll
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\obj\Debug\net8.0\refint\Adivinhadordenumro.dll
+c:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\obj\Debug\net8.0\Adivinhadordenumro.pdb
+C:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\obj\Debug\net8.0\Adivinhadordenumro.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\adri\ProjetoEmEquipe\Adivinhadordenumro\obj\Debug\net8.0\ref\Adivinhadordenumro.dll
